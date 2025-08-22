@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <h1>This is Branch 1</h1>
+    <h1>App 1</h1>
      
     </>
   )
